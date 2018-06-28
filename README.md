@@ -24,7 +24,7 @@ The symbols "I", "X", "C", and "M" can be repeated three times in succession, bu
 Only one small-value symbol may be subtracted from any large-value symbol. 
 A number written in Arabic numerals can be broken into digits. For example, 1903 is composed of 1, 9, 0, and 3. To write the Roman numeral, each of the non-zero digits should be treated separately. In the above example, 1,000 = M, 900 = CM, and 3 = III. Therefore, 1903 = MCMIII. 
 
-Source: Wikipedia (http://en.wikipedia.org/wiki/Roman_numerals)Input to your program consists of lines of text detailing your notes on the conversion between intergalactic units and roman numerals. You are expected to handle invalid queries appropriately. 
+Source: Wikipedia (http://en.wikipedia.org/wiki/Roman_numerals) Input to your program consists of lines of text detailing your notes on the conversion between intergalactic units and roman numerals. You are expected to handle invalid queries appropriately. 
 
 # Test input:
 
